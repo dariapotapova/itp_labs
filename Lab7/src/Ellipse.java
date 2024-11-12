@@ -1,0 +1,2 @@
+class Ellipse extends Shape {
+}
